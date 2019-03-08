@@ -4,6 +4,14 @@
   <Count>145</Count>
   <Images>
  <ImageInfo>
+      <Name>209</Name>
+      <Id>dog_3</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>https://github.com/dreammajre/DesignMode/blob/master/DesignJar/dog_3.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+    </ImageInfo>
+ <ImageInfo>
       <Name>208</Name>
       <Id>shan</Id>
       <AccessStatus>Free</AccessStatus>
